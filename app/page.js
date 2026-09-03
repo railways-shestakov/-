@@ -1,4 +1,3 @@
-```jsx
 import styles from "./page.module.css";
 
 const envMessage =
@@ -206,5 +205,4 @@ export default function Home() {
       </footer>
     </main>
   );
-}
-```
+} 
